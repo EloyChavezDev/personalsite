@@ -70,7 +70,7 @@
             {
                 "label": "Youtube",
                 "url": "#https://www.youtube.com/channel/UCq3v5b7J97e_i_RZE6eE4HQ",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "youtube",
                 "new_window": false,
                 "no_follow": false
