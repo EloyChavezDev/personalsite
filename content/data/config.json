@@ -72,7 +72,7 @@
                 "url": "#https://www.youtube.com/channel/UCq3v5b7J97e_i_RZE6eE4HQ",
                 "style": "icon",
                 "icon_class": "youtube",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ]
