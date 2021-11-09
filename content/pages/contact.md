@@ -29,6 +29,7 @@ sections:
           - Reportar error en el sitio
           - Colaboración/Patrocinio
           - Otro
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
