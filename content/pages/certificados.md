@@ -12,6 +12,8 @@ sections:
       Segunda columna | Tercera columna |
 
       | -- | -- | -- |
+
+      | **Cómo Cerrar Negocios |**
     actions: []
     type: section_content
 seo:
