@@ -35,7 +35,7 @@ sections:
         default_value: Coloca tu email
         options: []
         is_required: true
-        label: Libre de SPAM
+        label: 'Libre de SPAM '
     submit_label: Suscribirse
     type: section_form
 seo:
