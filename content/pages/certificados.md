@@ -26,7 +26,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: '#'
-        style: link
+        style: icon
         icon_class: dev
         new_window: false
         no_follow: false
