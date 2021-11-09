@@ -10,9 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_img_path: >-
-  /images/Captura de pantalla 2021-10-16
-  142527-ef574a57-9bbe-441d-9051-1410b9d7a1b9.png
+thumb_img_path: /images/team-meeting-online-conference-call-on-laptop.jpg
 ---
 ## Lorem ipsum
 
