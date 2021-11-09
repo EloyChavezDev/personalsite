@@ -8,11 +8,12 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Mexicano, trabajo como auxiliar de sistemas en la[ Universidad Continente
+      Americano,](https://uca.edu.mx/) así como encargado de la plataforma
+      digital para el [Instituto Americano,](http://instituto-americano.edu.mx/)
+      un apasionado de la enseñanza adoptando nuevas tecnologías para la
+      enseñanza efectiva en línea.
     actions:
       - label: Charlemos
         url: /contact
