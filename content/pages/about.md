@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Conoceme
+subtitle: Conoce
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
