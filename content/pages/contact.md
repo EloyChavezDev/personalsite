@@ -39,7 +39,7 @@ sections:
         label: >-
           Entiendo que este formulario está almacenando mi información enviada
           para que puedan ser contactado.
-    submit_label: Send Message
+    submit_label: Enviar
 seo:
   title: Contact
   description: This is the contact page
