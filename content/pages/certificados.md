@@ -3,7 +3,7 @@ title: Certificados
 hide_title: false
 excerpt: Certificados
 sections:
-  - title: Platzi
+  - title: '2021'
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     actions: []
