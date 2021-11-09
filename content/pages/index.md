@@ -30,7 +30,7 @@ sections:
     form_id: Suscribirse
     form_action: Suscribirse
     form_fields:
-      - input_type: text
+      - input_type: email
         name: Coloca tu email
         label: lorem-ipsum
         default_value: lorem-ipsum
