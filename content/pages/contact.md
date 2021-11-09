@@ -12,7 +12,7 @@ sections:
     form_fields:
       - input_type: text
         name: Nombre
-        label: Name
+        label: Nombre
         default_value: Your name
         is_required: true
         options: []
