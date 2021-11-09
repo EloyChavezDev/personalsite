@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, soy Eloy Chavez'
-    content: "\U0001F469\U0001F3FB‍\U0001F680\U0001F3A4 Platzinauta & Speaker en #PlatziConf 2021 \n\n\U0001F453 MERN Apprentice \n\n\U0001F4DA Nunca Paro de Aprender |\n"
+    content: "\U0001F469\U0001F3FB‍\U0001F680\U0001F3A4 Platzinauta & Speaker en #PlatziConf 2021\n\U0001F453 MERN Apprentice\n\U0001F4DA Nunca Paro de Aprender |\n"
   - section_id: about
     type: section_content
     title: About
