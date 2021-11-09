@@ -32,7 +32,7 @@ sections:
     form_fields:
       - input_type: email
         name: Coloca tu email
-        label: lorem-ipsum
+        label: Coloca tu email
         default_value: lorem-ipsum
         options: []
         is_required: false
