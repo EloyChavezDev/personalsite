@@ -1,6 +1,5 @@
 ---
 title: 5 Tips para perder el miedo a hablar en público remotamente
-subtitle: lorem-ipsum“Es normal sentir miedo cuando hablas en público”
 date: '2021-11-09'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
