@@ -13,7 +13,6 @@ sections:
 
       | -- | -- | -- |
 
-
       | **Cómo Cerrar Negocios** |   |   |
     actions: []
     type: section_content
