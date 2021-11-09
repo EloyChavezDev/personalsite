@@ -32,7 +32,6 @@ sections:
     form_fields:
       - input_type: email
         name: Newsletter
-        label: Coloca tu email
         default_value: Coloca tu email
         options: []
         is_required: false
