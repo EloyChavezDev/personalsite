@@ -68,14 +68,6 @@
                 "icon_class": "youtube",
                 "new_window": true,
                 "no_follow": false
-            },
-            {
-                "label": "Reddit",
-                "url": "https://www.reddit.com/user/ElPackDelGamer",
-                "style": "icon",
-                "icon_class": "reddit",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "tagline": "👩🏻‍🚀🎤 Platzinauta & Speaker en #PlatziConf 2021 | 👓 MERN Apprentice | 📚 Nunca Paro de Aprender"
