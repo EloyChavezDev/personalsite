@@ -22,15 +22,13 @@ content_img_path: /images/team-meeting-online-conference-call-on-laptop-3de81aa9
 
 Te invito a imaginar por un momento el estar frente a una multitud de personas que no conoces, que te ven fijamente desde casi todo el mundo, sus miradas centradas en ti, sus oídos atentos a lo que dices y están ahí para escucharte hablar en un evento que sin duda es de los más importantes de América Latina y Habla Hispana. Sientes incertidumbre, ansiedad, nervios, todos desencadenan un miedo que te hace sudar frio e incluso tiemblan tus piernas.
 
-
+![](/images/Captura%20de%20pantalla%202021-10-16%20142527-ef574a57-9bbe-441d-9051-1410b9d7a1b9-c025fbba.png)
 
 Así me sentí yo minutos antes de participar como Speaker en el Open Stage durante esta [PlatziConf 2021](https://platzi.com/conf/), pero cuando comencé a hablar todas esas sensaciones desaparecieron rápidamente, logrando transmitir mi mensaje con la misma pasión que siento por ser parte de esta hermosa comunidad de Platzinautas, es así que desde mi experiencia te compartiré “las técnicas secretas” que use para lograrlo.
 
 ## Tip #1: Organízate ✍🏻
 
 Ya sea larga o corta tu presentación, es muy importante ordenar todos los elementos de la misma así como su duración. Debes tener bien identificados los tiempos en tu introducción, nudo y desenlace que conforman la [Estructura de un discurso exitoso](https://platzi.com/clases/1285-hablar-en-publico/11598-estructura-de-un-discurso-exitoso/).
-
-
 
 A lo largo del curso aprendes que no hay una sola metodología para organizar tu mensaje, pero una vez que sabes hacia donde te diriges, puedes crear el camino como tú lo desees e incluso comenzar con lo que resulta ser la frase final que impactara a tu audiencia para que te recuerden.
 
@@ -43,8 +41,6 @@ Grábate y se criticó contigo mismo, piensa en las emociones que transmites al 
 ## Tip #3: Practica, practica y luego practica. 🏆
 
 Aun cuando creas que ya estás listo o tienes perfectamente preparado todo, practica un poco más, pero hazlo en la mayor cantidad de escenarios diferentes que puedas, si solo practicas frente al computador, el cerebro se siente cómodo ante el mismo entorno, lo cual disminuye su rendimiento, desencadenando emociones que llevan al miedo el día de la presentación.
-
-
 
 Algunas técnicas para el [cómo practicar para una conferencia, exposición o discurso](https://platzi.com/clases/1285-hablar-en-publico/11605-como-practicar-para-una-conferencia-exposicion-o-d/) de manera adecuada lo puedes ver en el curso, pero sin lugar a dudas este es el tip que más me ayudo a lograr un excelente ignite.
 
