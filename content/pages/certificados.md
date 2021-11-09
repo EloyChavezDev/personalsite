@@ -9,11 +9,11 @@ sections:
     content: >
       |
       ![](https://preview--personalsite-1dace.stackbit.dev/\_static/app-assets/images/como-cerrar-negocios_badge-418508a5-1c9c-466e-84de-d0dae28b4891-20216be8.webp)
-      | Segunda columna | Tercera columna |
+      | Segunda columna | Tercera columna | hola |
 
-      | -- | -- | -- |
+      | -- | -- | -- | -- |
 
-      | **Cómo Cerrar Negocios** |   |   |
+      | **Cómo Cerrar Negocios** |   |   |  |
     actions: []
     type: section_content
 seo:
