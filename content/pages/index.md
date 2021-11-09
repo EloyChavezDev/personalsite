@@ -17,7 +17,7 @@ sections:
       are. There also exists a dedicated about page where you can write more
       about yourself for those who are interested.
     actions:
-      - label: C
+      - label: Charlemos
         url: /contact
         style: button
   - section_id: recent-posts
