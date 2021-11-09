@@ -33,7 +33,7 @@ sections:
       - input_type: email
         name: Coloca tu email
         label: Coloca tu email
-        default_value: lorem-ipsum
+        default_value: Coloca tu email
         options: []
         is_required: false
     submit_label: Suscribirse
