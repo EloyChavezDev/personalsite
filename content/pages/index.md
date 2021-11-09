@@ -25,7 +25,7 @@ sections:
       - label: Ver mas
         url: blog/index.html
         style: button
-  - title: lorem-ipsum
+  - title: ¡Suscríbete al newsletter!
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
