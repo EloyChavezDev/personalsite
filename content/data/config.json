@@ -76,7 +76,7 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Reddit",
                 "url": "https://www.reddit.com/user/ElPackDelGamer",
                 "style": "icon",
                 "icon_class": "reddit",
