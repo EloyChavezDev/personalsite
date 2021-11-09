@@ -25,7 +25,7 @@ sections:
     title: ¿Qué vas a aprender hoy?
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: Ver mas
         url: blog/index.html
         style: button
 seo:
