@@ -36,7 +36,7 @@ sections:
         default_value: lorem-ipsum
         options: []
         is_required: false
-    submit_label: lorem-ipsum
+    submit_label: Suscribirse
     type: section_form
 seo:
   title: Stackbit Fresh Theme
