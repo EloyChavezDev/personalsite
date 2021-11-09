@@ -40,17 +40,17 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/eloychavezdev/",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
                 "label": "Twitter",
                 "url": "https://twitter.com/EloyChavezDev",
                 "style": "icon",
                 "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/eloychavezdev/",
+                "style": "icon",
+                "icon_class": "linkedin",
                 "new_window": true
             },
             {
