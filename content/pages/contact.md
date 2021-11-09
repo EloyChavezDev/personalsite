@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Reportar error en el sitio
-          - Sponsorship
+          - Patocinio
           - Other
       - input_type: textarea
         name: message
