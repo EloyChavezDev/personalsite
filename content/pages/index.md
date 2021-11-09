@@ -28,7 +28,7 @@ sections:
   - title: ¡Suscríbete al newsletter!
     section_id: ¡Suscríbete al newsletter!
     form_id: Suscribirse
-    form_action: lorem-ipsum
+    form_action: Suscribirse
     form_fields: []
     submit_label: lorem-ipsum
     type: section_form
