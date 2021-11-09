@@ -65,3 +65,5 @@ Para concluir, y citando de nuevo a Freddy Vega:
 > “Existen diferentes técnicas para enfrentar esto, pero no todas funcionan de una manera general, lo importante es que encontremos las razones por las cuales sentimos miedo para poder vencerlo.”
 
 #### 💚 Espero mi experiencia te ayude a vencer o tomar el control de tu miedo, habla en público poniendo en práctica todo lo aprendido en este curso, complementándolo con los Tips que use en PlatziConf y te acabo de compartir
+
+#### Si te gusto este post ayúdame a compartirlo o si conoces algún otro tip para enfrentar el miedo a hablar en Público me encantaría me lo digas en cualquiera de mis redes sociales.&#xA;
