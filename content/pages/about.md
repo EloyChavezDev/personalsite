@@ -31,4 +31,7 @@ seo:
 layout: page
 img_path: /images/56920217_1392437200896318_925572878286454784_n.jpg
 ---
-#### **¿Quién soy?**&#xA;
+#### **¿Quién soy?**
+
+Mexicano, trabajo como auxiliar de sistemas en la[ Universidad Continente Americano,](https://uca.edu.mx/) así como encargado de la plataforma classroom para el [Instituto Americano,](http://instituto-americano.edu.mx/) un apasionado de la enseñanza adoptando nuevas tecnologías para la enseñanza efectiva en línea.[CHARLEMOS](https://preview--personalsite-1dace.stackbit.dev/contact/)
+
