@@ -23,13 +23,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: icon
-        icon_class: dev
-        new_window: false
-        no_follow: false
+    actions: []
     type: section_hero
 seo:
   title: ''
