@@ -26,7 +26,7 @@ sections:
         url: blog/index.html
         style: button
   - title: ¡Suscríbete al newsletter!
-    section_id: lorem-ipsum
+    section_id: ¡Suscríbete al newsletter!
     content: >-
       ## Lorem ipsum
 
