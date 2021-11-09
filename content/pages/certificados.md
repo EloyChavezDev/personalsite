@@ -6,10 +6,12 @@ sections:
   - title: Certificados
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: |+
-      | Primera columna | Segunda columna | Tercera columna |
-      | -- | -- | -- |
+    content: >
+      | 
+      ![](https://preview--personalsite-1dace.stackbit.dev/\_static/app-assets/images/como-cerrar-negocios_badge-418508a5-1c9c-466e-84de-d0dae28b4891-20725dc0.webp)|
+      Segunda columna | Tercera columna |
 
+      | -- | -- | -- |
     actions: []
     type: section_content
 seo:
