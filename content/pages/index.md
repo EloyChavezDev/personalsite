@@ -22,7 +22,7 @@ sections:
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: ¿Que vas a aprender hoy?
+    title: ¿Qué vas a aprender hoy?
     posts_number: 4
     actions:
       - label: View Blog
