@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Conoce
+subtitle: ¿Quien soy y que es lo que hago?
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
