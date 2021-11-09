@@ -31,7 +31,7 @@ sections:
     form_action: Suscribirse
     form_fields:
       - input_type: text
-        name: lorem-ipsum
+        name: Coloca tu email
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
