@@ -6,10 +6,10 @@ sections:
   - title: Certificados
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: |
-      | Hola | hola |
+    content: |+
+      | Primera columna | Segunda columna | Tercera columna |
+      | -- | -- | -- |
 
-      | -- | -- |
     actions: []
     type: section_content
 seo:
