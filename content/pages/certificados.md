@@ -1,7 +1,7 @@
 ---
 title: Certificados
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: Certificados
 sections: []
 seo:
   title: ''
