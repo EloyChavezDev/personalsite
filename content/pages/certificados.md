@@ -3,7 +3,7 @@ title: Certificados
 hide_title: false
 excerpt: Certificados
 sections:
-  - title: Certificados
+  - title: Platzi
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
