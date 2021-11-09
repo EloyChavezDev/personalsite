@@ -11,6 +11,7 @@ seo:
   extra: []
 layout: post
 thumb_img_path: /images/team-meeting-online-conference-call-on-laptop.jpg
+content_img_path: /images/team-meeting-online-conference-call-on-laptop-3de81aa9.jpg
 ---
 ## Lorem ipsum
 
