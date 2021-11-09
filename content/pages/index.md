@@ -34,7 +34,7 @@ sections:
         name: Newsletter
         default_value: Coloca tu email
         options: []
-        is_required: false
+        is_required: true
     submit_label: Suscribirse
     type: section_form
 seo:
