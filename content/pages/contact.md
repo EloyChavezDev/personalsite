@@ -28,7 +28,7 @@ sections:
         options:
           - Reportar error en el sitio
           - Colaboración/Patrocinio
-          - Other
+          - Otro
       - input_type: textarea
         name: message
         label: Message
