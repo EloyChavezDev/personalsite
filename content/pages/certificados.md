@@ -7,9 +7,9 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      | Hola | hola|
+      | Hola | hola |
 
-      |--| --|
+      | -- | -- |
     actions: []
     type: section_content
 seo:
