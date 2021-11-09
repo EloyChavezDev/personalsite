@@ -3,7 +3,10 @@ title: 5 Tips para perder el miedo a hablar en público remotamente
 date: '2021-11-09'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Así me sentí yo minutos antes de participar como Speaker en el Open Stage
+  durante esta PlatziConf 2021, pero cuando comencé a hablar todas esas
+  sensaciones desaparecieron rápidamente
 seo:
   title: ''
   description: ''
