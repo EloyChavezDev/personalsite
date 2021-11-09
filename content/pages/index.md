@@ -11,9 +11,10 @@ sections:
     content: >
       Mexicano, trabajo como auxiliar de sistemas en la[ Universidad Continente
       Americano,](https://uca.edu.mx/) así como encargado de la plataforma
-      digital para el [Instituto Americano,](http://instituto-americano.edu.mx/)
-      un apasionado de la enseñanza adoptando nuevas tecnologías para la
-      enseñanza efectiva en línea.
+      classroom para el [Instituto
+      Americano,](http://instituto-americano.edu.mx/) un apasionado de la
+      enseñanza adoptando nuevas tecnologías para la enseñanza efectiva en
+      línea.
     actions:
       - label: Charlemos
         url: /contact
