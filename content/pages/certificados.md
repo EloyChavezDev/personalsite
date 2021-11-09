@@ -3,8 +3,7 @@ title: Certificados
 hide_title: false
 excerpt: Certificados
 sections:
-  - title: '2021'
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     actions: []
     type: section_content
