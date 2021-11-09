@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Reportar Error en el sitio
+          - Reportar error en el sitio
           - Sponsorship
           - Other
       - input_type: textarea
