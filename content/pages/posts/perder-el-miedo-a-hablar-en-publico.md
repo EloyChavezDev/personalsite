@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 5 Tips para perder el miedo a hablar en público remotamente
 subtitle: lorem-ipsum
 date: '2021-11-09'
 thumb_img_alt: lorem-ipsum
