@@ -31,7 +31,7 @@ sections:
     form_action: Suscribirse
     form_fields:
       - input_type: email
-        name: Coloca tu email
+        name: Newsletter
         label: Coloca tu email
         default_value: Coloca tu email
         options: []
