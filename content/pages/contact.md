@@ -26,10 +26,10 @@ sections:
         label: Asunto
         default_value: Please select
         options:
+          - Charlemos
           - Reportar error en el sitio
           - Colaboración/Patrocinio
           - Otro
-          - Charlemos
       - input_type: textarea
         name: message
         label: Message
