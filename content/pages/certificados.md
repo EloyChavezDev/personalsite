@@ -3,7 +3,7 @@ title: Certificados
 hide_title: true
 excerpt: Certificados
 sections:
-  - title: lorem-ipsum
+  - title: Certificados
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
