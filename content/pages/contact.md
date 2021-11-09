@@ -27,8 +27,8 @@ sections:
         default_value: Please select
         options:
           - Charlemos
-          - Reportar error en el sitio
           - Colaboración/Patrocinio
+          - Reportar error en el sitio
           - Otro
       - input_type: textarea
         name: message
