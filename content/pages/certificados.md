@@ -1,6 +1,6 @@
 ---
 title: Certificados
-hide_title: true
+hide_title: false
 excerpt: Certificados
 sections:
   - title: Certificados
